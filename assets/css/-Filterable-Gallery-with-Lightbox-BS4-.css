@@ -354,3 +354,19 @@ body.hidden-scroll {
 div {
 }
 
+.objectives-text {
+  font-size: 16px;
+  color: #eeeeee;
+  font-family: 'Montserrat';
+}
+
+.objectives-heading {
+  font-family: 'Montserrat';
+}
+
+.main-body {
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+  /*background: url("linear-gradient(to right, #243949 0%, #517fa4 100%)") !important;*/
+  /*background-color: inherit;*/
+}
+
