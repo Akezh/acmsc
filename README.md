@@ -1,2 +1,3 @@
-# acmsc
-The website "Association for Computing Machinery" club at Nazarbayev University.
+#  "Association for Computing Machinery" Student Chapter
+Nazarbayev University.  
+Link: https://akezh.github.io/acmsc
