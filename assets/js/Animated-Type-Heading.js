@@ -1,3 +1,4 @@
+
 jQuery(document).ready(function($) {
     var animationDelay = 2000,
         barAnimationDelay = 3500,

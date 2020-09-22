@@ -6,13 +6,26 @@
   font-family: 'Montserrat';
 }
 
-.cd-words-wrapper b {
-  display: inline-block;
-  position: absolute;
-  white-space: nowrap;
-  left: 0;
-  top: 0;
+@media only screen and (max-width: 1000px) {
+    .cd-words-wrapper b {
+      display: inline-block;
+      position: absolute;
+      white-space: normal;
+      left: 0;
+      top: 0;
+      font-size:80%;
+    }
 }
+@media only screen and (min-width: 1001px) {
+    .cd-words-wrapper b {
+      display: inline-block;
+      position: absolute;
+      white-space: nowrap;
+      left: 0;
+      top: 0;
+    }
+}
+
 
 .blc {
   font-size: 48px;
