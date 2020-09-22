@@ -2,4 +2,4 @@
 
 🙈 Want to know more about the Association for Computing Machinery Student Chapter, then check out the link below:
 
-###🎁 https://akezh.github.io/acmsc/
+🎁 https://akezh.github.io/acmsc/
