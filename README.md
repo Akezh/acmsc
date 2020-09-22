@@ -1,6 +1,5 @@
 # Association for Computing Machinery Student Chapter
-Nazarbayev University.
-Nur-Sultan, Kazakhstan  
+Nazarbayev University. Nur-Sultan, Kazakhstan.
 
 
-### Link: https://acmkz.github.io/
+### Link to ACM Student Chapter: https://akezh.github.io/acmsc/
