@@ -345,10 +345,11 @@ body.hidden-scroll {
 }
 
 .footer_social_icon:hover {
-  background-color: white !important;
-  transform: rotateY(25deg);
-  transition: all 600ms ease-out 0s;
-  color: black;
+  /*background-color: white !important;*/
+  /*transform: rotateY(25deg);*/
+  transform: scale(1.1,1.1);
+  /*transition: all 600ms ease-out 0s;*/
+  /*color: black;*/
 }
 
 div {
@@ -365,8 +366,29 @@ div {
 }
 
 .main-body {
-  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+  background-image: linear-gradient(to right, #06131F 0%, #365168 100%);
   /*background: url("linear-gradient(to right, #243949 0%, #517fa4 100%)") !important;*/
   /*background-color: inherit;*/
 }
 
+.card.card-objectives {
+  background-color: transparent;
+  border: 2px solid grey;/*#F5DEB3*/
+  box-shadow: 0 0 10px rgba(231,193,111,0.5);
+}
+
+.col.col-md-3.col-sm-6.col-xs-12.info-box {
+  box-shadow: 0 0 10px rgba(140,84,84,0.5);
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.awards-box {
+    margin-bottom:10px;
+    margin-top:10px;
+}
