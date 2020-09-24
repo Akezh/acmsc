@@ -1,5 +1,5 @@
-<h1 align="center">The Website for ACM Student Chapter club</h1>
-
-🙈 Want to know more about the Association for Computing Machinery Student Chapter, then check out the link below:
-
-🎁 https://akezh.github.io/acmsc/
+##  [ACM V2](https://akezh.github.io/acm-v1/)
+🌼 First iteration of the ACM club's website.
+💻 Nazarbayev University ACM Student Chapter - are the Kazakhstani branches of the international ACM organization (Association for Computing Machinery).
+🎯 To develop a competitive and high-skilled youth ready to push the Kazakhstani IT industry forward.
+✨ We aspire to live in the world, where computing technologies help us in solving the problems of tomorrow, where we use our knowledge and apply our skills to make a positive impact.
